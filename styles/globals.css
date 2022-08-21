@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.navbar {
+  margin-top: 20px;
+  width: 600px;
+  display: inline-block;
+}
+.hero h1 {
+  text-align: center
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
